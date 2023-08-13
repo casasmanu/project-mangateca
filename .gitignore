@@ -121,6 +121,7 @@ venv.bak/
 /Data
 .vscode
 /superbot
+settings.json
 
 # mypy
 .mypy_cache/
